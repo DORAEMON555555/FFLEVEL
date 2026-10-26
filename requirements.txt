@@ -4,3 +4,4 @@ pycryptodome
 protobuf
 httpx
 requests
+protobuf-decoder
